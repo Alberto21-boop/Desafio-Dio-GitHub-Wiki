@@ -7,7 +7,7 @@ export const defaultTheme = {
         "base-screen": "#666666",
         "base-button": "#E6E5E5",
         "brand-purple": "#8047F8",
-        "base-header": "#020617",
+        "base-header": "#000000",
     },
 
     textSizes: {
