@@ -4,3 +4,5 @@ npm i styled-components
 Para estilização 
 npm i @types/styled-components -D
 
+E para consumir a API do github
+npm install axios
